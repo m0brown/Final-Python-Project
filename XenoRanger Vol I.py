@@ -1,4 +1,3 @@
-# Marysha Brown
 # IT-140 Final Project
 
 import time
